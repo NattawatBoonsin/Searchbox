@@ -1,2 +1,1 @@
-# 6410510327 ณัฐวัตร บุญสิน
-booya project is develop apprication to understand cat sound.
+# 6410510327 ณัฐวัตร บุญสิน 6410510319 ณัชพล ชีวานุรัตน์
